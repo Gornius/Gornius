@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">✨ Programming since 2017, commercially since 2021<br>📚 Lublin University of Technology CS Degree<br>🐈 Dad of two cats<br>🐧 I have tried many Linux distros, settled on Ubuntu</p>
+<p align="left">✨ Programming since 2019, commercially since 2021<br>📚 Lublin University of Technology CS Degree<br>🐈 Dad of two cats<br>🐧 I have tried many Linux distros, settled on Ubuntu</p>
 
 ###
 
